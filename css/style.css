@@ -43,12 +43,12 @@ body{
     box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile{
-    background: url('/images/FtT3KUwWcAIUr1X.jpg');
+    background: url('images/FtT3KUwWcAIUr1X.jpg');
     background-position: center;
     background-size: cover;
 }
 #special-tile{
-    background: url('/images/1469922004.jpg');
+    background: url('images/1469922004.jpg');
     background-position: center;
     background-position: center;
     background-size: cover;
